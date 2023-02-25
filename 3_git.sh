@@ -1,7 +1,5 @@
 #!/bin/bash
-
 source ./.functions.sh
-
 
 echo_doing 'Configuring Git'
 
